@@ -1,6 +1,6 @@
 # Packed files
 
-- Place `.xnb` files you want to unpack in this folder.
+- Place `Alex.xnb` files you want to unpack in this folder.
 
 or
 
